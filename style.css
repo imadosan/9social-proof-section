@@ -245,11 +245,11 @@ main {
   }
 
   .quotes li:nth-child(2) {
-    transform: translateY(3rem);
+    transform: translateY(1.5rem);
   }
 
   .quotes li:nth-child(3) {
-    transform: translateY(6rem);
+    transform: translateY(3rem);
   }
 
   .quotes blockquote img {
